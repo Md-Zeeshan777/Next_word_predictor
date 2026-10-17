@@ -4,6 +4,8 @@
 An LSTM-based next word prediction application built using
 TensorFlow and Streamlit.
 
+Deployed Link - https://nextwordpredictor-jdqr2h9afleqybqxeyuav3.streamlit.app/
+
 ## Features
 
 - Predicts the next word from user-provided text
